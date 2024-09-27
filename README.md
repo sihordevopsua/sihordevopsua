@@ -19,7 +19,8 @@ With **Bash**, I write powerful scripts that help manage and configure systems e
 ### YAML 📄
 I love **YAML** for its simplicity and elegance in configuration management, especially for tools like Ansible and Kubernetes.
 
-![YAML](https://upload.wikimedia.org/wikipedia/commons/1/1d/YAML-Logo.svg)
+![image](https://github.com/user-attachments/assets/13d04644-7242-4c25-a18e-cd62c6036813)
+
 
 ---
 
