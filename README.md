@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting project
 - 📫 How to reach me sihor.devops@gmail.com
 - ⚡ Fun fact: My day - Continuous pipeline
-![image](https://github.com/user-attachments/assets/b41b2cdc-62bb-4957-88b0-b3671cabf292)
-
+[![BASH progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=50)]
 <!---
 sihordevopsua/sihordevopsua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
