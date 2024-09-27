@@ -1,4 +1,4 @@
-# Hi there, I'm Ihor Savchak 👋
+# Hi there, I'm DevOps 👋
 
 I'm a passionate **DevOps Engineer** based in Uzhhorod, Ukraine 🇺🇦, with 3+ years of experience in automation, scripting, and cloud infrastructure. I love building efficient, scalable solutions using cutting-edge tools and technologies.
 
