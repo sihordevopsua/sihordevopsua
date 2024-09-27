@@ -1,11 +1,35 @@
-- 👋 Hi, I’m @sihordevopsua
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on interesting project
-- 📫 How to reach me sihor.devops@gmail.com
-- ⚡ Fun fact: My day - Continuous pipeline
-[![BASH progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=python&value=50)]
-<!---
-sihordevopsua/sihordevopsua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Ihor Savchak 👋
+
+I'm a passionate **DevOps Engineer** based in Uzhhorod, Ukraine 🇺🇦, with 3+ years of experience in automation, scripting, and cloud infrastructure. I love building efficient, scalable solutions using cutting-edge tools and technologies.
+
+---
+
+## 🛠️ Technologies I Use
+
+### Python 🐍
+I use **Python** to automate processes, develop scripts, and build back-end logic for various tools and services.
+
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
+### Bash 🖥️
+With **Bash**, I write powerful scripts that help manage and configure systems efficiently.
+
+![Bash](https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg)
+
+### YAML 📄
+I love **YAML** for its simplicity and elegance in configuration management, especially for tools like Ansible and Kubernetes.
+
+![YAML](https://upload.wikimedia.org/wikipedia/commons/1/1d/YAML-Logo.svg)
+
+---
+
+## 🌱 What I'm currently working on:
+- 📦 Automating Kubernetes installations using Ansible
+- 🛡️ Setting up SSL certificates with Certbot
+- 🚀 Deploying containerized applications with Docker and Kubernetes
+
+---
+
+## 📫 Let's connect:
+- [LinkedIn](https://www.linkedin.com/in/ihor-savchak)
+- [GitHub](https://github.com/sihordevopsua)
